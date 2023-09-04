@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me mypersonalemail3629@gmail.com
 
-view counter
+  -view counter
 ![](https://count.getloli.com/get/@hughhughhughhugh.github.readme)
 
 <!---
